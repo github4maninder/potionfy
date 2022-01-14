@@ -1,7 +1,7 @@
 # potionfy
 Build and share your potions
 
-### Awesome Contributors
+## ❤️ Thanks to our awesome contributors ✨✨
 <table>
   <tr>
     <td>
